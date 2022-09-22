@@ -1,0 +1,127 @@
+<?xml version="1.0"?>  
+<class>  
+    <user>  
+        <id> 101 </id>   
+        <name> Naman </name>
+        <followers>		
+	<follower>
+		<id>103</id>
+	</follower>
+        </followers>		
+        <subject>Math</subject>  
+        <marks>83</marks>  
+    </user>  
+      
+    <user>  
+        <id>102</id>  
+        <name>Kapil</name>   
+        <subject>Chemistry</subject>  
+        <marks>60</marks>  
+    </user>  
+  
+    <user>  
+        <id>103</id>  
+        <name>Harsh</name> 
+        <followers>		
+	<follower>
+		<id>104</id>
+	</follower>
+	<follower>
+		<id>103</id>
+	</follower>
+        </followers>		
+        <subject>English</subject>  
+        <marks>70</marks>  
+    </user>  
+  
+    <user>  
+        <id>104</id>  
+        <name>nada</name>
+        <followers>
+	<follower>
+		<id>101</id>
+	</follower>
+	<follower>
+		<id>101</id>
+	</follower>
+	<follower>
+		<id>103</id>
+	</follower>
+        </followers>		
+        <subject>Physics</subject>  
+        <marks>76</marks>  
+    </user>  
+
+    <user>  
+        <id>105</id>  
+        <name>klay</name>
+        <followers>
+	<follower>
+		<id>106</id>
+	</follower>
+	<follower>
+		<id>101</id>
+	</follower>
+	<follower>
+		<id>103</id>
+	</follower>
+        </followers>		  
+        <subject>Physics</subject>  
+        <marks>76</marks>  
+    </user>  
+
+    <user>  
+        <id>106</id>  
+        <name>mazen</name>
+        <followers>
+	<follower>
+		<id>107</id>
+	</follower>
+	<follower>
+		<id>102</id>
+	</follower>
+	<follower>
+		<id>105</id>
+	</follower>
+        </followers>		  
+        <subject>Physics</subject>  
+        <marks>76</marks>  
+    </user>  
+
+    <user>  
+        <id>107</id>  
+        <name>zeyad</name>
+        <followers>
+	<follower>
+		<id>108</id>
+	</follower>
+	<follower>
+		<id>105</id>
+	</follower>
+	<follower>
+		<id>106</id>
+	</follower>
+        </followers>		  
+        <subject>Physics</subject>  
+        <marks>76</marks>  
+    </user>  
+
+    <user>  
+        <id>108</id>  
+        <name>mamdouh</name>
+        <followers>
+	<follower>
+		<id>101</id>
+	</follower>
+	<follower>
+		<id>102</id>
+	</follower>
+	<follower>
+		<id>103</id>
+	</follower>
+        </followers>		
+        <subject>Physics</subject>  
+        <marks>76</marks>  
+    </user>  
+  
+</class>  
